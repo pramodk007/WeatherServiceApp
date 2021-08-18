@@ -1,0 +1,8 @@
+libraries/frameworks used :
+  1>Retrofit
+  2>Coroutines
+  3>Dragger hilt
+  
+screenShot:1> LogInScreen -> https://github.com/pramodk007/WeatherServiceApp/blob/master/app/ScreenShot/Screenshot_2021-08-18-08-28-29.png
+           2> weatherReportScreen ->https://github.com/pramodk007/WeatherServiceApp/blob/master/app/ScreenShot/Screenshot_2021-08-18-08-14-39.png
+                                  ->https://github.com/pramodk007/WeatherServiceApp/blob/master/app/ScreenShot/Screenshot_2021-08-18-08-14-33.png
